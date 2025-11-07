@@ -34,3 +34,22 @@ Clone o repositório:
 ```bash
 git clone https://github.com/guuhferiani/libras.git
 cd libras-senai
+
+
+---
+
+## 👨‍💻 Autor
+
+**Gustavo Feriani**  
+Instrutor Front-End • SENAI  
+📍 São Paulo, Brasil  
+🌐 [github.com/guuhferiani](https://github.com/guuhferiani)
+
+---
+
+## 📜 Licença
+
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
+Este projeto está licenciado sob a [MIT License](LICENSE).  
+Sinta-se livre para utilizar, adaptar e contribuir para aprimorar a acessibilidade digital no Brasil.
