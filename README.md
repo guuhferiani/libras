@@ -1,55 +1,51 @@
-# 🤟 Libras Senai
-
-**Libras Senai** é uma aplicação web voltada para **inclusão e aprendizado acessível**, desenvolvida com foco na **Língua Brasileira de Sinais (LIBRAS)**.  
-O projeto tem como objetivo **facilitar o acesso a conteúdos educacionais em vídeo**, promovendo a **acessibilidade digital** e a **inclusão de pessoas surdas** em ambientes de aprendizagem online.
-
----
-
-## 💡 Sobre o projeto
-
-O **Libras Senai** nasceu como uma iniciativa de acessibilidade e inovação tecnológica, inspirada em metodologias inclusivas utilizadas em cursos do SENAI.  
-A proposta é permitir que estudantes possam **assistir, interagir e compreender conteúdos multimídia** com suporte em Libras, utilizando uma interface moderna e intuitiva.
-
-
----
-
-## 🧩 Tecnologias Utilizadas
-
-O projeto foi desenvolvido com foco em **React + Vite + TypeScript**, adotando práticas modernas de UI/UX e acessibilidade:
-
-- ⚛️ **React 18** — biblioteca principal para criação da interface  
-- ⚡ **Vite** — ferramenta de build rápida e eficiente  
-- 🧱 **Radix UI** — componentes acessíveis e customizáveis  
-- 🎨 **Tailwind CSS** — estilização moderna e responsiva  
-- 🧭 **Lucide React** — ícones vetoriais leves  
-- 🔧 **TypeScript** — segurança e tipagem no desenvolvimento  
-- 📊 **Recharts** — visualização de dados interativa  
-
----
-
-## 🚀 Como Executar o Projeto
-
-Clone o repositório:
-
-```bash
-git clone https://github.com/guuhferiani/libras.git
-cd libras-senai
-
-
----
-
 ## 👨‍💻 Autor
 
 **Gustavo Feriani**  
 Instrutor Front-End • SENAI  
 📍 São Paulo, Brasil  
-🌐 [github.com/guuhferiani](https://github.com/guuhferiani)
+🌐 [github.com/guuhferiani](https://github.com/guuhferiani)  
+💼 [LinkedIn](https://www.linkedin.com/in/gustavoferiani)
+
+
+# 🤟 Libras Senai
+
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Vercel Status](https://img.shields.io/badge/deploy-Vercel-blue?logo=vercel)](https://libras-senai.vercel.app)
+![Node](https://img.shields.io/badge/node-20.x-6DA55F?logo=node.js)
+![React](https://img.shields.io/badge/react-18.x-61DAFB?logo=react)
+![Vite](https://img.shields.io/badge/vite-6.x-646CFF?logo=vite)
 
 ---
 
-## 📜 Licença
+## 🌍 Sobre o Projeto
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+**Libras Senai** é uma aplicação web voltada à **inclusão e acessibilidade digital**, desenvolvida com foco na **Língua Brasileira de Sinais (LIBRAS)**.  
+O objetivo é proporcionar uma plataforma moderna para **aprendizado por vídeo**, onde estudantes e instrutores possam interagir de maneira acessível, intuitiva e visualmente agradável.
 
-Este projeto está licenciado sob a [MIT License](LICENSE).  
-Sinta-se livre para utilizar, adaptar e contribuir para aprimorar a acessibilidade digital no Brasil.
+O projeto foi inspirado em práticas inclusivas aplicadas nos cursos do **SENAI**, e tem como propósito **reduzir barreiras de comunicação** e **promover a igualdade de acesso à informação**.
+
+🔗 Design base no Figma:  
+[Web Application for Video Learning](https://www.figma.com/design/OXBf0WCWUr0Z2txP8U07yb/Web-Application-for-Video-Learning)
+
+---
+
+## 🧩 Tecnologias Utilizadas
+
+| Categoria | Ferramenta |
+|------------|-------------|
+| **Framework Front-End** | [React 18](https://react.dev/) |
+| **Ambiente de Build** | [Vite 6](https://vitejs.dev/) |
+| **Linguagem** | [TypeScript](https://www.typescriptlang.org/) |
+| **UI Components** | [Radix UI](https://www.radix-ui.com/) |
+| **Estilização** | [Tailwind CSS](https://tailwindcss.com/) |
+| **Ícones** | [Lucide React](https://lucide.dev/) |
+| **Gráficos** | [Recharts](https://recharts.org/) |
+
+---
+
+## 🚀 Como Executar Localmente
+
+Clone o repositório:
+```bash
+git clone https://github.com/<seu-usuario>/libras-senai.git
+cd libras-senai
